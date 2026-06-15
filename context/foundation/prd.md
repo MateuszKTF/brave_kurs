@@ -25,7 +25,8 @@ Insight: istniejące generatory lootu/arkusze rozwiązują jednorazowe losowanie
 
 ## User & Persona
 
-Główna persona: **Mistrz Gry (DM) w D&D 5e**, prowadzący własne kampanie — w tym sam autor narzędzia. Sięga po aplikację w trakcie trwającej sesji, gdy drużyna wchodzi do sklepu lub spotyka kupca. Narzędzie jest przeznaczone wyłącznie dla oczu DM-a (brak osobnego widoku gracza). Model jednoosobowy: każdy DM widzi wyłącznie własne, zapisane sklepy i kampanie.
+Główna persona: **Mistrz Gry (DM) w D&D 5e**, prowadzący własne kampanie — w tym sam autor narzędzia. Sięga po aplikację w trakci
+e trwającej sesji, gdy drużyna wchodzi do sklepu lub spotyka kupca. Narzędzie jest przeznaczone wyłącznie dla oczu DM-a (brak osobnego widoku gracza). Model jednoosobowy: każdy DM widzi wyłącznie własne, zapisane sklepy i kampanie.
 
 ## Success Criteria
 
